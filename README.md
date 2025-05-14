@@ -16,7 +16,7 @@ Create a workflow
 
 Import the json file from this repo
 
-It should end up looking like the last screenshot below
+It should end up looking like the bottom screenshot below
 ```
 <img src="1st.png" alt="app demo" width=600>
 
@@ -27,3 +27,16 @@ It should end up looking like the last screenshot below
 <img src="4th.png" alt="app demo" width=600>
 
 # Step 2: Set up API
+
+
+```
+Go to OpenAI API https://platform.openai.com/docs/overview 
+After logging in, go and generate your API key for n8n https://platform.openai.com/settings/organization/api-keys
+You will have to add $5 dollars to your billing account to use the API if you haven't done so before
+
+After getting your API key, you want to go back to n8n and connect it to any OpenAI node like the first screenshot below
+
+```
+
+
+<img src="5th.png" alt="app demo" width=600>
