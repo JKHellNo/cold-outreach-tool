@@ -1,6 +1,15 @@
 
 # My Cold Outerach n8n Template
 
+
+##  Project Components
+
+- **Front End App**: https://github.com/JKHellNo/audience-alchemy-connect
+- **Scrapper (Apollo Contacts)**: https://github.com/JKHellNo/browser-apollo-scrapper
+
+---
+
+
 # Step 1: Self-Host n8n and Create a Workflow
 
 To get started quickly, run n8n locally using `npx`:
