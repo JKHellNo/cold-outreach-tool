@@ -1,10 +1,29 @@
 
-# My n8n Template
+# My Cold Outerach n8n Template
 
-See the docs/ folder for detailed setup instructions.
-=======
-# cold-outreach-tool
+# Step 1: Self-Host n8n and Create a Workflow
 
-![image](https://github.com/user-attachments/assets/e28c0d75-5872-4b45-8eb2-19023fabc4fb)
+To get started quickly, run n8n locally using `npx`:
 
+```bash
+npx n8n
 
+Create your account
+
+Log in with your account
+
+Create a workflow
+
+Import the json file from this repo
+
+It should end up looking like the last screenshot below
+```
+<img src="1st.png" alt="app demo" width=600>
+
+<img src="2nd.png" alt="app demo" width=600>
+
+<img src="3rd.png" alt="app demo" width=600>
+
+<img src="4th.png" alt="app demo" width=600>
+
+# Step 2: Set up API
