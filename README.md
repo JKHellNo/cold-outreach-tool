@@ -18,13 +18,13 @@ Import the json file from this repo
 
 It should end up looking like the bottom screenshot below
 ```
-<img src="1st.png" alt="app demo" width=600>
+<img src="img/1st.png" alt="app demo" width=600>
 
-<img src="2nd.png" alt="app demo" width=600>
+<img src="img/2nd.png" alt="app demo" width=600>
 
-<img src="3rd.png" alt="app demo" width=600>
+<img src="img/3rd.png" alt="app demo" width=600>
 
-<img src="4th.png" alt="app demo" width=600>
+<img src="img/4th.png" alt="app demo" width=600>
 
 # Step 2: Set up API
 
@@ -39,4 +39,4 @@ After getting your API key, you want to go back to n8n and connect it to any Ope
 ```
 
 
-<img src="5th.png" alt="app demo" width=600>
+<img src="img/5th.png" alt="app demo" width=600>
